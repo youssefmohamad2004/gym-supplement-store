@@ -1,16 +1,71 @@
-# React + Vite
+# Gym Supplement Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
 
-Currently, two official plugins are available:
+This project is a responsive frontend web application for a gym supplement store.
+It was built using ReactJS and Bootstrap.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The website allows users to:
 
-## React Compiler
+- Browse gym supplements
+- Navigate between pages
+- View responsive design on desktop and mobile
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ReactJS
+- Bootstrap
+- React Router DOM
+- Vite
+- Git & GitHub
+- Netlify
+
+---
+
+## Pages
+
+- Home
+- About
+- Products
+- Contact
+
+---
+
+## Features
+
+- Responsive Design
+- Navigation Bar
+- Hero Section
+- Product Cards
+- Mobile Friendly Layout
+
+---
+
+## Setup Instructions
+
+1. Clone the repository
+2. Open terminal
+3. Run:
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## Live Website
+
+Netlify Link:
+(https://enchanting-jalebi-1135e2.netlify.app/)
+
+---
+
+## GitHub Repository
+
+GitHub Link:
+(https://github.com/youssefmohamad2004/gym-supplement-store)
+
+---
